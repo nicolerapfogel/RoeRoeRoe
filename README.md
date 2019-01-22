@@ -1,1 +1,7 @@
-This is my first sketch. 
+# This is my sketch. 
+
+![Roe Roe Roe](images/RoeRoeRoe.jpg?raw=true "Roe Roe Roe")
+
+It plays on the social and political value placed on the Roe v. Wade Supreme Court decision, which effectively legalized abortion in the US. Under the Trump administration, with President Trump's highly conservative Supreme Court nominee, Brett Kavanaugh, and with a trend of state level abortion restrictions, abortion access is threatened. However, as Democratic contenders begin to announce their intentions to run for president in 2020, it's important to link progressive movements that support abortion rights to other progressive movements that highlight and uplift marginalized communities beyond women. I included flags representing LGBTQ+, refugee, and black communities as just a few of the other identities and political issues that I value in the upcoming election. The boat moves across the bottom of the screen at a consistent speed and wraps around to the beginning when it reaches the right end of the canvas. The vote button image bounces around the screen, highlighting the importance of voting and encouraging others to do so to make social and political change. '2020' is linked to the mouse and when clicked, the string turns from red to blue.
+
+[Here's a link to the piece](https://nicolerapfogel.github.io/RoeRoeRoe/)
