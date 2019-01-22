@@ -17,6 +17,8 @@ var m = 380
 var n = 395
 var o = 380
 var p = 380
+//let q = 210
+//let r = 410
 
 
 let img1;
@@ -26,6 +28,7 @@ let img4;
 let img5;
 let img6;
 let img7;
+//let img8;
 let xpos, ypos;
 let xspeed = 4;
 let yspeed = 3.5;
@@ -44,6 +47,7 @@ function preload(){
   img5 = loadImage('images/lgbtqflag.jpeg')
   img6 = loadImage('images/intersectional.png')
   img7 = loadImage('images/refugees.png')
+  img8 = loadImage('images/oar.jpg')
   
 }
 
@@ -73,7 +77,17 @@ image(img3, xpos, ypos, 65, 65);
     x = new_z; }
  
   image(img1, x, y, 330,150);
+
+  /*q += speed; 
+  if(q > width){
+    q = new_z; }
+    image(img8, q, r, 100, 160);*/
+
+
   image(img2, 0, 450, 800, 150)
+
+  
+
   fill(0)
   textSize(50)
   textAlign(CENTER, CENTER)
